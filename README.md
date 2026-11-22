@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Brennah 👋
+
+I'm a **Customer Support & Operations professional** with 2+ years of experience in customer service and retail operations. I'm interested in **workflow organization, process improvement, operational efficiency, and project coordination**.
+
+## What I Do
+
+- 💬 Customer communication & issue resolution
+- 📋 Workflow organization & process improvement
+- 📅 Scheduling & administrative coordination
+- 📊 Task prioritization & operational support
+- 🗂️ Project coordination & documentation
+- 💻 Building practical tools and systems
+
+## Tools & Technologies
+
+**Productivity & Organization:**  
+Notion · Google Workspace · Microsoft 365 · Google Sheets · Google Calendar · Canva
 
 <!--
-**brennahezielinski-dev/brennahezielinski-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Development:**  
+HTML · CSS/SCSS · JavaScript · TypeScript · Next.js · Git · GitHub
 -->
+
+**Project Management:**  
+Project coordination · Workflow management · Documentation · Task tracking · Agile/Scrum
+
+## Portfolio
+
+🚧 **Portfolio coming soon**
+
+<!-- Add portfolio links here -->
+<!-- - [Project / Portfolio Name](https://example.com) -->
+<!-- - [Project / Portfolio Name](https://example.com) -->
+<!-- - [Project / Portfolio Name](https://example.com) -->
+
+## Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/brennah-e-zielinski/)
+<!--🌐 [Portfolio](https://yourportfolio.com) -->
+- 📧 [Email](mailto:brennah.e.zielinski@gmail.com)
+
+---
+
+*Turning day-to-day complexity into organized, manageable workflows.*
