@@ -26,7 +26,9 @@ Project coordination · Workflow management · Documentation · Task tracking ·
 
 ## Portfolio
 
-🚧 **Portfolio coming soon**
+### [Customer Feedback Analysis →](YOUR_PORTFOLIO_LINK)
+
+Customer feedback analysis project using Excel and AI to identify trends, prioritize issues, assess risk, and turn 100 comments into actionable business recommendations.
 
 <!-- Add portfolio links here -->
 <!-- - [Project / Portfolio Name](https://example.com) -->
